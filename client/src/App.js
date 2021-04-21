@@ -1,10 +1,13 @@
 import React from 'react'
+import Header from './components/Header/Header'
 
 const App = () => {
 	return (
-		<div>
-			<h1>App</h1>
-		</div>
+		<>
+			<Header />
+			{/* CARDS */}
+			{/* BUTTONS */}
+		</>
 	)
 }
 
