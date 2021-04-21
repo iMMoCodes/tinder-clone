@@ -21,9 +21,9 @@
 	position: absolute;
 }
 
-.card h3 {
+.card h1 {
 	position: absolute;
-	bottom: 0;
-	margin: 10px;
-	color: #fff;
+	top: 0;
+	margin: 10px 210px;
+	color: rgb(42, 42, 42);
 }
